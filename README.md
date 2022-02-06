@@ -20,3 +20,6 @@ passengers on the Titanic. The Titanic is the world's largest passenger liner, a
 2,200 people. It sank in the North Atlantic Ocean in 1912. We miss the Titanic, but we can still learn a lot.
 
 This problem is a classification problem. The goal is to predict whether a passenger survived the sinking of the Titanic.
+
+To visualize model 
+`brew install graphviz`
