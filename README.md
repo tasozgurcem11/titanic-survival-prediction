@@ -23,3 +23,12 @@ This problem is a classification problem. The goal is to predict whether a passe
 
 To visualize model 
 `brew install graphviz`
+
+
+### Data
+
+Data is provided in the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic). You can download and unzip the
+data. It consists of a training set of 891 entries and a test set of 418 entries. The training set is used to train the
+model, and the test set is used to evaluate the model. The data is in CSV format. Columns are: (PassengerId, Survived, 
+Survived, Pclass, Name, ..., Fare). The first column is the PassengerId, which is a unique identifier for each
+passenger.
