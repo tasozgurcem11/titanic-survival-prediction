@@ -29,6 +29,22 @@ To visualize model
 
 Data is provided in the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic). You can download and unzip the
 data. It consists of a training set of 891 entries and a test set of 418 entries. The training set is used to train the
-model, and the test set is used to evaluate the model. The data is in CSV format. Columns are: (PassengerId, Survived, 
-Survived, Pclass, Name, ..., Fare). The first column is the PassengerId, which is a unique identifier for each
+model, and the test set is used to evaluate the model. The data is in CSV format.
+
+Columns are: (PassengerId, Survived, Survived, Pclass, Name, ..., Fare)
+
+The first column is the PassengerId, which is a unique identifier for each
 passenger.
+
+
+### Data preprocessing
+
+Data preprocessing is the process of converting the data into a form that is suitable for training a machine
+learning model. Basically, we need to convert the data into a form that is suitable for the model.
+
+
+### Model
+
+There are many machine learning models that can be used to predict the outcome of a problem. In this project we will 
+use a simple model called a decision tree. The decision tree is a tree-based model that can be used to predict the 
+survival of a passenger. 
