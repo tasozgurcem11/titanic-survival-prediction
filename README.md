@@ -48,3 +48,12 @@ learning model. Basically, we need to convert the data into a form that is suita
 There are many machine learning models that can be used to predict the outcome of a problem. In this project we will 
 use a simple model called a decision tree. The decision tree is a tree-based model that can be used to predict the 
 survival of a passenger. 
+
+Used models:
+* [Decision tree](http://scikit-learn.org/stable/modules/tree.html)
+* [Random forest](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+* [Gradient boosting](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+* [AdaBoost](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
+* [xgboost](http://xgboost.readthedocs.io/en/latest/model.html)
+* [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html)
+* [Perceptron](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)
