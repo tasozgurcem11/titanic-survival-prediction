@@ -57,3 +57,15 @@ Used models:
 * [xgboost](http://xgboost.readthedocs.io/en/latest/model.html)
 * [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html)
 * [Perceptron](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)
+
+
+### Evaluation
+
+Evaluation is the process of determining the accuracy of a model. The accuracy is the fraction of the predictions. 
+Cross-validation is a technique that is used to determine the accuracy of a model. Confusion matrix is used to get
+better understanding of the model evaluation. Different evaulation scores are:
+
+F1 score: F1 score is a measure of the effectiveness of a classification model. It is the harmonic mean of precision.
+Precision: Precision is a measure of the model's positive prediction. It is the fraction of the true positives.
+Recall: Recall is a measure of the model's true positive prediction. It is the fraction of the true positives.
+Accuracy: Accuracy is the fraction of the correct predictions.
