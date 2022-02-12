@@ -42,6 +42,14 @@ passenger.
 Data preprocessing is the process of converting the data into a form that is suitable for training a machine
 learning model. Basically, we need to convert the data into a form that is suitable for the model.
 
+* FamSize created by combining SibSp and Parch.
+* Age is filled with the median value.
+* Embarked is filled with the most frequent value.
+
+
+
+
+
 
 ### Model
 
@@ -69,3 +77,7 @@ F1 score: F1 score is a measure of the effectiveness of a classification model. 
 Precision: Precision is a measure of the model's positive prediction. It is the fraction of the true positives.
 Recall: Recall is a measure of the model's true positive prediction. It is the fraction of the true positives.
 Accuracy: Accuracy is the fraction of the correct predictions.
+
+
+### Conclusion
+
