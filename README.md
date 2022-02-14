@@ -47,10 +47,6 @@ learning model. Basically, we need to convert the data into a form that is suita
 * Embarked is filled with the most frequent value.
 
 
-
-
-
-
 ### Model
 
 There are many machine learning models that can be used to predict the outcome of a problem. In this project we will 
@@ -80,4 +76,7 @@ Accuracy: Accuracy is the fraction of the correct predictions.
 
 
 ### Conclusion
+
+Machine learning is a very powerful tool that can be used to predict the outcome of a problem. Maybe it will save next
+Titanic disaster and maybe AI will save the world one-day unlike the Terminator.
 
